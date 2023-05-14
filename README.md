@@ -36,7 +36,7 @@ Create user with read/write access:
 
 ### Get the source
 
-    git clone https://github.com/DigitalKashDev/DKASHiquidus explorer
+    git clone https://github.com/digitalKash/DKASHiquidus explorer
 
 ### Install node modules
 
